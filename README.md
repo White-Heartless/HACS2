@@ -1,2 +1,2 @@
-# CS42
-Bot to correct each project.
+# HACS2
+Back for vengeance.
